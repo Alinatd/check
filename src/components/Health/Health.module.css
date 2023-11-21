@@ -1,0 +1,15 @@
+
+.Card{
+
+    width: 420px;
+    height: 420px;
+    font-size: 32px;
+    border: 1px solid;
+  
+}
+.hello{
+color:white;
+font-size: 32px;
+padding: 60px;
+padding-top: 80px;
+}
